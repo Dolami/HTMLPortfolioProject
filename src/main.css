@@ -1,0 +1,27 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #FFF5EE;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: black;
+  height: 300px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.tagline, .skills, .contact {
+  padding: 10px 20px;
+}
+
+.skills {
+  background: #ff5050;
+  box-sizing: border-box;
+  color: white;
+}
